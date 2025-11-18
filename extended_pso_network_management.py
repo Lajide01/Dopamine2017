@@ -1,6 +1,6 @@
 import numpy as np
 import networkx as nx
-from pyswarms.multi import GlobalBestPSO
+from pyswarms.single.global_best import GlobalBestPSO
 import requests
 import json
 import time
